@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Dota Application</string>
+    <string name="dota_name">DOTA</string>
+    <string name="search_team">Teams</string>
+    <string name="search_pro_player">Pro Players</string>
+    <string name="search_herores">Heroes</string>
+    <string name="resquest_permission_msg">Para fazer a busca é preciso acessar a internet</string>
+    <string name="request_permission_ok_msg">Permitir</string>
+    <string name="request_permission_not_msg">Negar</string>
+    <string name="data_found_text">Dados Encontrados</string>
+    <string name="data_not_found">Nenhum dado encontrado</string>
+    <string name="api_error_msg">"Ocorreu um na busca"</string>
+</resources>
